@@ -1,0 +1,610 @@
+author,papers_count
+Tong Zhang,9
+Terence Sanger,6
+Shumeet Baluja,5
+Wolfgang Maass,5
+Francis Bach,5
+Liam Paninski,5
+Peter Dayan,5
+Sebastian Thrun,5
+Timothy Brown,4
+Joshua Tenenbaum,4
+"Zeyuan Allen-Zhu, Yuanzhi Li",4
+Tom Heskes,4
+"Elad Hazan, Satyen Kale",4
+"Phil Long, Rocco Servedio",4
+"Nathan Kallus, Angela Zhou",4
+"Manfred Opper, Ole Winther",4
+Hagai Attias,4
+"Kevin Bello, Jean Honorio",4
+"Clayton Scott, Robert Nowak",4
+"Ahmed M. Alaa, Mihaela van der Schaar",4
+"Francis Bach, Michael Jordan",4
+John Platt,4
+Matthias Seeger,4
+"Nuno Vasconcelos, Andrew Lippman",4
+Sumio Watanabe,4
+Geoffrey J. Gordon,4
+"Sheng Chen, Arindam Banerjee",4
+"Eric Chang, Richard P. Lippmann",4
+Bartlett Mel,4
+Justin Domke,4
+"Nicol Schraudolph, Terrence J. Sejnowski",4
+"Dörthe Malzahn, Manfred Opper",4
+David Cohn,4
+Peter Sollich,4
+Shinji Ito,4
+"Shinji Ito, Daisuke Hatano, Hanna Sumita, Kei Takemura, Takuro Fukunaga, Naonori Kakimura, Ken-Ichi Kawarabayashi",3
+"Sanghack Lee, Elias Bareinboim",3
+"Emmanouil-Vasileios Vlatakis-Gkaragkounis, Lampros Flokas, Georgios Piliouras",3
+"Kiran K. Thekumparampil, Prateek Jain, Praneeth Netrapalli, Sewoong Oh",3
+Sam Roweis,3
+Yaser Abu-Mostafa,3
+"Alan A. Stocker, Eero Simoncelli",3
+Michael Tipping,3
+"Vikas Garg, Tommi Jaakkola",3
+Ohad Shamir,3
+"Fang Han, Han Liu",3
+"Máté Lengyel, Peter Dayan",3
+"James Coughlan, Alan L. Yuille",3
+Christopher Atkeson,3
+"Tomoya Murata, Taiji Suzuki",3
+"Sepp Hochreiter, Jürgen Schmidhuber",3
+"Quoc Phong Nguyen, Bryan Kian Hsiang Low, Patrick Jaillet",3
+"Vinod Nair, Geoffrey E. Hinton",3
+Jürgen Schmidhuber,3
+"Tomas Geffner, Justin Domke",3
+Adam Kowalczyk,3
+"Brian Zhang, Tuomas Sandholm",3
+"Marina Meila, Michael Jordan",3
+"Junzhe Zhang, Elias Bareinboim",3
+Zhaoping Li,3
+"Oren Mangoubi, Nisheeth Vishnoi",3
+"Dheeraj Baby, Yu-Xiang Wang",3
+Michael C. Mozer,3
+Yves Chauvin,3
+Guangmo Tong,3
+"Corinna Cortes, Mehryar Mohri",3
+"Yi Hao, Alon Orlitsky",3
+"Alberto Bietti, Julien Mairal",3
+Emanuel Todorov,3
+Gerald Tesauro,3
+Yuhong Guo,3
+Nathan Intrator,3
+"Geoffrey E. Hinton, Russ R. Salakhutdinov",3
+"Pascal Poupart, Craig Boutilier",3
+"Peter Dayan, Angela J. Yu",3
+Ralph Linsker,3
+Matthew Brand,3
+Padhraic Smyth,3
+"Chong Wang, David Blei",3
+"Jeongyeol Kwon, Yonathan Efroni, Constantine Caramanis, Shie Mannor",3
+"Guy Lebanon, John Lafferty",3
+Yong Liu,3
+Andrew Moore,3
+"Jiechuan Jiang, Zongqing Lu",3
+"Martin Szummer, Tommi Jaakkola",3
+"Anand Kalvit, Assaf Zeevi",3
+"Yinglun Zhu, Robert Nowak",3
+"Yue Xing, Qifan Song, Guang Cheng",3
+"Eran Malach, Shai Shalev-Shwartz",3
+"Xiaoyun Li, Ping Li",3
+Christopher Williams,3
+"Lawrence Saul, Michael Jordan",3
+David Rogers,3
+Bill Baird,3
+Amir-massoud Farahmand,3
+"Evgenii Chzhen, Christophe Denis, Mohamed Hebiri, Luca Oneto, Massimiliano Pontil",3
+Alan L. Yuille,3
+"Yoshua Bengio, Paolo Frasconi",3
+Geoffrey Goodhill,3
+"Michael Lewicki, Terrence J. Sejnowski",3
+Bernd Fritzke,3
+"John T. Halloran, David M. Rocke",3
+Stephen Omohundro,3
+Suzanna Becker,3
+"Mikhail Belkin, Partha Niyogi",3
+"Ofer Dekel, Yoram Singer",3
+"Ashish Khetan, Sewoong Oh",3
+"Emmanuel Abbe, Colin Sandon",3
+"Yossi Arjevani, Michael Field",3
+"Christopher Bishop, Markus Svensén, Christopher Williams",2
+"Ohad Shamir, Naftali Tishby",2
+"Linjian Ma, Edgar Solomonik",2
+"Joshua Tenenbaum, Thomas Griffiths",2
+Carl Rasmussen,2
+"Szabolcs Káli, Peter Dayan",2
+"Mehryar Mohri, Afshin Rostamizadeh",2
+"Vasken Bohossian, Jehoshua Bruck",2
+"Mehryar Mohri, Scott Yang",2
+"Wei Ping, Qiang Liu, Alexander T. Ihler",2
+"Dylan J. Foster, Akshay Krishnamurthy",2
+"Walid Krichene, Alexandre Bayen, Peter L. Bartlett",2
+"Shashank Singh, Barnabas Poczos",2
+"Igor Cadez, Padhraic Smyth",2
+Ralph Neuneier,2
+"Hao Wang, Xingjian SHI, Dit-Yan Yeung",2
+"Ian Stevenson, Konrad Koerding",2
+"Wenrui Zhang, Peng Li",2
+"Eiji Mizutani, James Demmel",2
+"Eszter Vértes, Maneesh Sahani",2
+"Michal Derezinski, Manfred K. K. Warmuth",2
+"Lizhong Wu, John Moody",2
+"David Wipf, Srikantan Nagarajan",2
+"Andrew Guillory, Jeff A. Bilmes",2
+"Trevor Hastie, Robert Tibshirani",2
+"Soeren Laue, Matthias Mitterreiter, Joachim Giesen",2
+"Sham Kakade, Peter Dayan",2
+"Daniel Bartz, Klaus-Robert Müller",2
+"Rémi Jézéquel, Pierre Gaillard, Alessandro Rudi",2
+"Sagie Benaim, Lior Wolf",2
+"Eugene Ndiaye, Olivier Fercoq, Alexandre Gramfort, Joseph Salmon",2
+Sanjoy Dasgupta,2
+"Charles Stevens, Anthony Zador",2
+"Richard Zemel, Geoffrey E. Hinton",2
+"Mao Ye, Lemeng Wu, Qiang Liu",2
+"Vincent LE GUEN, Nicolas THOME",2
+Pierre Baldi,2
+"Fredrik Hellström, Giuseppe Durisi",2
+"Joris M. Mooij, Hilbert Kappen",2
+"John Bradshaw, Brooks Paige, Matt J. Kusner, Marwin Segler, José Miguel Hernández-Lobato",2
+"Ziyu Jiang, Tianlong Chen, Ting Chen, Zhangyang Wang",2
+"Vincent Cohen-Addad, Silvio Lattanzi, Ashkan Norouzi-Fard, Christian Sohler, Ola Svensson",2
+"Daniel Russo, Benjamin Van Roy",2
+"Yuan Deng, Jon Schneider, Balasubramanian Sivan",2
+"Shai Avidan, Moshe Butman",2
+"Jian Zhang, Zoubin Ghahramani, Yiming Yang",2
+"Wenkai Xu, Gesine D Reinert",2
+"Steven Nowlan, Geoffrey E. Hinton",2
+Paul Wagner,2
+Yao-Liang Yu,2
+"Boyi Liu, Qi Cai, Zhuoran Yang, Zhaoran Wang",2
+"Minjing Dong, Yunhe Wang, Xinghao Chen, Chang Xu",2
+"Omar Montasser, Steve Hanneke, Nati Srebro",2
+"Yuan Cao, Quanquan Gu",2
+Julien Mairal,2
+"Maxim Raginsky, Svetlana Lazebnik",2
+"Anthony Kuh, Thomas Petsche, Ronald Rivest",2
+"Enrique Fita Sanmartin, Sebastian Damrich, Fred A. Hamprecht",2
+"Jean Tarbouriech, Matteo Pirotta, Michal Valko, Alessandro Lazaric",2
+"Ofer Dekel, Shai Shalev-shwartz, Yoram Singer",2
+"David I. Inouye, Pradeep K. Ravikumar, Inderjit S. Dhillon",2
+"Michael S Matena, Colin A. Raffel",2
+"Kaushik Sinha, Mikhail Belkin",2
+"Thomas Griffiths, Joshua Tenenbaum",2
+"Peter Sykacek, Stephen J. Roberts",2
+"Steve Waterhouse, Anthony Robinson",2
+"Boris Muzellec, Marco Cuturi",2
+Dirk van der Hoeven,2
+"Liefeng Bo, Xiaofeng Ren, Dieter Fox",2
+"Mehryar Mohri, Andres Munoz",2
+"Constantinos Daskalakis, Dhruv Rohatgi, Emmanouil Zampetakis",2
+"Thomas Natschläger, Wolfgang Maass",2
+"Vincent Cohen-Addad, Varun Kanade, Frederik Mallmann-Trenn",2
+Kenji Doya,2
+"Gaurang Sriramanan, Sravanti Addepalli, Arya Baburaj, Venkatesh Babu R",2
+"Eunho Yang, Aurelie C. Lozano, Pradeep K. Ravikumar",2
+"André van Schaik, Eric Fragnière, Eric Vittoz",2
+"Robert Legenstein, Wolfgang Maass",2
+"Khai Nguyen, Nhat Ho",2
+"Muhammad Osama, Dave Zachariah, Peter Stoica",2
+"Fan Wu, Patrick Rebeschini",2
+"Yue Wang, Justin M. Solomon",2
+"Peisong Wen, Qianqian Xu, Zhiyong Yang, Yuan He, Qingming Huang",2
+"Chulhee Yun, Suvrit Sra, Ali Jadbabaie",2
+"Peter Kairouz, Sewoong Oh, Pramod Viswanath",2
+"Yuhong Guo, Dale Schuurmans",2
+"Mario Marchand, Saeed Hadjifaradji",2
+Claudio Gentile,2
+"Josip Djolonga, Andreas Krause",2
+"Thore Graepel, Ralf Herbrich",2
+"Gen Li, Yuting Wei, Yuejie Chi, Yuantao Gu, Yuxin Chen",2
+"Muhammad Akhtar Munir, Muhammad Haris Khan, M. Sarfraz, Mohsen Ali",2
+"Pascal Vincent, Yoshua Bengio",2
+"Ralf Herbrich, Thore Graepel",2
+"Alaa Saade, Florent Krzakala, Lenka Zdeborová",2
+"Paul Micaelli, Amos J. Storkey",2
+"Ananya Uppal, Shashank Singh, Barnabas Poczos",2
+"Carl Rasmussen, Zoubin Ghahramani",2
+"Tomoharu Iwata, Atsutoshi Kumagai",2
+"Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan",2
+"Maria-Florina F. Balcan, Siddharth Prasad, Tuomas Sandholm, Ellen Vitercik",2
+"Reimar Hofmann, Volker Tresp",2
+Kunal Talwar,2
+"Jacob Steinhardt, Percy S. Liang",2
+"Ming Yin, Yu-Xiang Wang",2
+"David Saad, Sara Solla",2
+Yoram Singer,2
+"Garrett Bernstein, Daniel R. Sheldon",2
+"Chicheng Zhang, Kamalika Chaudhuri",2
+"Andrej Risteski, Yuanzhi Li",2
+"Hilbert Kappen, Wim Wiegerinck",2
+"Adam Kowalczyk, Herman Ferrá",2
+"Jian Wu, Peter Frazier",2
+"Nicolò Cesa-bianchi, Alex Conconi, Claudio Gentile",2
+"Daniel Jarrett, Ioana Bica, Mihaela van der Schaar",2
+Dawei Dong,2
+"Asier Mujika, Florian Meier, Angelika Steger",2
+"Andreas Christmann, Ingo Steinwart",2
+"Aurel A. Lazar, Yevgeniy Slutskiy",2
+"Rafael Frongillo, Bo Waggoner",2
+"Anthony Bell, Terrence J. Sejnowski",2
+"Richard Turner, Maneesh Sahani",2
+"Yichuan Zhang, Charles Sutton",2
+"David Barber, Felix Agakov",2
+"Adarsh Barik, Jean Honorio",2
+Richard Rohwer,2
+"Trevor Darrell, Alex Pentland",2
+Fernando Pineda,2
+Suvrit Sra,2
+"Bruce Rosen, James Goodwin, Jacques Vidal",2
+"Niru Maheswaranathan, Alex Williams, Matthew Golub, Surya Ganguli, David Sussillo",2
+"Nathan Kallus, Masatoshi Uehara",2
+"James Newling, François Fleuret",2
+Yedid Hoshen,2
+"Pier Giuseppe Sessa, Ilija Bogunovic, Maryam Kamgarpour, Andreas Krause",2
+"Luiz Chamon, Alejandro Ribeiro",2
+"Noel Loo, Ramin Hasani, Alexander Amini, Daniela Rus",2
+"Pascale Gourdeau, Varun Kanade, Marta Kwiatkowska, James Worrell",2
+Dean A. Pomerleau,2
+"Ferran Diego Andilla, Fred A. Hamprecht",2
+"Anish Chakrabarty, Swagatam Das",2
+"Tao Yu, Christopher M. De Sa",2
+"Koby Crammer, Michael Kearns, Jennifer Wortman",2
+"Maria-Florina F. Balcan, Hongyang Zhang",2
+"Qiwen Cui, Simon S. Du",2
+Amit Daniely,2
+"Eunho Yang, Pradeep K. Ravikumar, Genevera I. Allen, Zhandong Liu",2
+"Antonio Orvieto, Aurelien Lucchi",2
+"Xiuyuan Lu, Benjamin Van Roy",2
+"Songbai Yan, Kamalika Chaudhuri, Tara Javidi",2
+Shigeru Tanaka,2
+"Enmao Diao, Jie Ding, Vahid Tarokh",2
+Jordan Pollack,2
+"Yonatan Geifman, Ran El-Yaniv",2
+"Larry Wasserman, John Lafferty",2
+"Hadrien Hendrikx, Francis Bach, Laurent Massoulié",2
+"Lingjiao Chen, Matei Zaharia, James Y. Zou",2
+"Kohei Hayashi, Yuichi Yoshida",2
+Thomas Anastasio,2
+Carlos Brody,2
+"Shinji Ito, Daisuke Hatano, Hanna Sumita, Akihiro Yabe, Takuro Fukunaga, Naonori Kakimura, Ken-Ichi Kawarabayashi",2
+"Aviv Rosenberg, Yishay Mansour",2
+"Bohdan Kivva, Goutham Rajendran, Pradeep Ravikumar, Bryon Aragam",2
+Richard S. Sutton,2
+"Tomas Vaskevicius, Varun Kanade, Patrick Rebeschini",2
+Francesco Orabona,2
+"William Huang, Richard P. Lippmann",2
+"Stefano Ermon, Carla P. Gomes, Ashish Sabharwal, Bart Selman",2
+"Tzi-Dar Chiueh, Rodney Goodman",2
+Paul Smolensky,2
+"Öjvind Bernander, Christof Koch, Rodney Douglas",2
+Lei Shi,2
+"Reda Ouhamma, Odalric-Ambrym Maillard, Vianney Perchet",2
+"Ben Eysenbach, Russ R. Salakhutdinov, Sergey Levine",2
+"Lingxiao Wang, Zhuoran Yang, Zhaoran Wang",2
+"Guido Dornhege, Benjamin Blankertz, Gabriel Curio, Klaus-Robert Müller",2
+"Dilip Arumugam, Benjamin Van Roy",2
+"Alexandra Carpentier, Rémi Munos",2
+"Arya Mazumdar, Barna Saha",2
+"Jessica Finocchiaro, Rafael Frongillo, Bo Waggoner",2
+"Charles Marcus, R. Westervelt",2
+Amos J. Storkey,2
+"Vaishnavh Nagarajan, J. Zico Kolter",2
+"Jiafan He, Dongruo Zhou, Quanquan Gu",2
+"Kumar Sricharan, Alfred Hero",2
+"Anders Krogh, John Hertz",2
+"Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos Tsourakakis",2
+"Ingo Steinwart, Don Hush, Clint Scovel",2
+"Xiaofeng Wang, Tuomas Sandholm",2
+"Spencer Frei, Yuan Cao, Quanquan Gu",2
+John Moody,2
+"Ulysse Marteau-Ferey, Francis Bach, Alessandro Rudi",2
+Dean Pomerleau,2
+"Omer Ben-Porat, Moshe Tennenholtz",2
+"Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi",2
+"Meyer Scetbon, Marco Cuturi",2
+Volker Tresp,2
+Todd Leen,2
+Harald Steck,2
+"Andrea Zanette, Alessandro Lazaric, Mykel J. Kochenderfer, Emma Brunskill",2
+"Matteo Turchetta, Felix Berkenkamp, Andreas Krause",2
+Richard Golden,2
+Ricardo Silva,2
+"Yu-Chia Chen, Marina Meila",2
+"Assaf Glazer, Michael Lindenbaum, Shaul Markovitch",2
+"Andre Barreto, Doina Precup, Joelle Pineau",2
+Lirong Xia,2
+"Xingchao Liu, Xin Tong, Qiang Liu",2
+"Ryoma Sato, Makoto Yamada, Hisashi Kashima",2
+"Nitish Srivastava, Russ R. Salakhutdinov",2
+"Liangpeng Zhang, Ke Tang, Xin Yao",2
+"Jeffrey Pennington, Pratik Worah",2
+"Po-ling Loh, Martin J. Wainwright",2
+"Eizaburo Doi, Michael Lewicki",2
+Taiji Suzuki,2
+"Gabriele Farina, Chun Kai Ling, Fei Fang, Tuomas Sandholm",2
+"Michael Dinitz, Sungjin Im, Thomas Lavastida, Benjamin Moseley, Sergei Vassilvitskii",2
+"Zhuo Wang, Alan A. Stocker, Daniel D. Lee",2
+"Fei Sha, Lawrence Saul",2
+"Qinglong Zhang, Yu-Bin Yang",2
+"Maksims Volkovs, Richard Zemel",2
+John Harris,2
+"Se-Young Yun, Alexandre Proutiere",2
+"Christian Darken, John Moody",2
+"Yang Song, Stefano Ermon",2
+"Yu-Guan Hsieh, Franck Iutzeler, Jérôme Malick, Panayotis Mertikopoulos",2
+"Qiang Liu, Dilin Wang",2
+Nicholas Ruozzi,2
+"Koby Crammer, Yoram Singer",2
+"Jianghong Shi, Eric Shea-Brown, Michael Buice",2
+"Jack Cowan, A. Friedman",2
+"Tyler B. Johnson, Carlos Guestrin",2
+"Matthew Lawlor, Steven W. Zucker",2
+"Jason D. Lee, Yuekai Sun, Jonathan E. Taylor",2
+"Yonghan Jung, Jin Tian, Elias Bareinboim",2
+"Atsutoshi Kumagai, Tomoharu Iwata, Yasuhiro Fujiwara",2
+Vrettos Moulos,2
+"Lizhen Nie, Dan Nicolae",2
+John Bridle,2
+"Lorenzo Dall'Amico, Romain Couillet, Nicolas Tremblay",2
+"Zelda E. Mariet, Suvrit Sra",2
+"Michael Jordan, Robert Jacobs",2
+"Martin Klissarov, Doina Precup",2
+"David Touretzky, Deirdre Wheeler",2
+"XuanLong Nguyen, Martin J. Wainwright, Michael Jordan",2
+"Felix Petersen, Christian Borgelt, Hilde Kuehne, Oliver Deussen",2
+"Malte Kuss, Carl Rasmussen",2
+"Xiaofei He, Deng Cai, Partha Niyogi",2
+"Gal Chechik, Naftali Tishby",2
+"Se-Young Yun, marc lelarge, Alexandre Proutiere",2
+Felipe Tobar,2
+"Chakra Chennubhotla, Allan Jepson",2
+"Pedro Mercado, Francesco Tudisco, Matthias Hein",2
+"Kareem Amin, Afshin Rostamizadeh, Umar Syed",2
+Subutai Ahmad,2
+"David DeMers, Kenneth Kreutz-Delgado",2
+"Alex Smola, S.v.n. Vishwanathan",2
+"Ilja Kuzborskij, Nicolò Cesa-Bianchi",2
+Wataru Kumagai,2
+"Purushottam Kar, Prateek Jain",2
+Christoph H. Lampert,2
+"Guo-Zheng Sun, Hsing-Hen Chen, Yee-Chun Lee",2
+"Huan Xu, Shie Mannor",2
+"Jaedeug Choi, Kee-eung Kim",2
+"Christian Horvat, Jean-Pascal Pfister",2
+"Isaac Meilijson, Eytan Ruppin",2
+"Khaled S. Refaat, Arthur Choi, Adnan Darwiche",2
+"Maneesh Sahani, Jennifer Linden",2
+"Alex K. Susemihl, Ron Meir, Manfred Opper",2
+"Yan Karklin, Michael Lewicki",2
+"Mark Herbster, Stephen Pasteris, Lisa Tse",2
+"Adam Bielski, Paolo Favaro",2
+"Zhongxiang Dai, Bryan Kian Hsiang Low, Patrick Jaillet",2
+"Zhiqiang Xu, Ping Li",2
+"Shantanu Chakrabartty, Gert Cauwenberghs",2
+"Jason Chang, John W. Fisher III",2
+"Wei Tang, Chien-Ju Ho, Yang Liu",2
+"Viet Anh Nguyen, Soroosh Shafieezadeh Abadeh, Man-Chung Yue, Daniel Kuhn, Wolfram Wiesemann",2
+"Kelly Zhang, Lucas Janson, Susan Murphy",2
+"Jose M. Alvarez, Mathieu Salzmann",2
+Laurence Aitchison,2
+"Jiashi Feng, Huan Xu, Shie Mannor, Shuicheng Yan",2
+"Dietrich Wettschereck, Thomas Dietterich",2
+"Jean-Bastien Grill, Michal Valko, Remi Munos",2
+"Vudtiwat Ngampruetikorn, David J. Schwab",2
+"Daniela Farias, Benjamin Roy",2
+"Edouard YVINEC, Arnaud Dapogny, Matthieu Cord, Kevin Bailly",2
+Aaron Defazio,2
+"Christoph Sawade, Niels Landwehr, Tobias Scheffer",2
+"Behrooz Ghorbani, Song Mei, Theodor Misiakiewicz, Andrea Montanari",2
+"Harald Steck, Tommi Jaakkola",2
+Rémi Munos,2
+"Mufan Li, Mihai Nica, Dan Roy",2
+"Alexander Rakhlin, Karthik Sridharan, Ambuj Tewari",2
+Gert Cauwenberghs,2
+"Robert Crites, Andrew Barto",2
+"Javad Azimi, Alan Fern, Xiaoli Fern",2
+"Ashok Cutkosky, Kwabena A. Boahen",2
+"Ziping Xu, Ambuj Tewari",2
+"Genevieve Orr, Todd Leen",2
+"Anshumali Shrivastava, Ping Li",2
+"Arya Akhavan, Massimiliano Pontil, Alexandre Tsybakov",2
+"Andrey Malinin, Mark Gales",2
+"Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, Manish Purohit",2
+"Andy Shih, Dorsa Sadigh, Stefano Ermon",2
+"Xuan-Phi Nguyen, Shafiq Joty, Kui Wu, Ai Ti Aw",2
+"Adel Javanmard, Andrea Montanari",2
+"Ji Xu, Daniel J. Hsu, Arian Maleki",2
+"Yair Wiener, Ran El-Yaniv",2
+David Barber,2
+"Farzan Farnia, David Tse",2
+"Baihe Huang, Kaixuan Huang, Sham Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang",2
+"Samuel Daulton, Maximilian Balandat, Eytan Bakshy",2
+"Lingxiao Huang, K Sudhir, Nisheeth Vishnoi",2
+"Kamalika Chaudhuri, Sanjoy Dasgupta",2
+"Ayush Jain, Alon Orlitsky",2
+Jon Kleinberg,2
+"Jingwei Liang, Jalal Fadili, Gabriel Peyré",2
+"Tong Chen, Jean B. Lasserre, Victor Magron, Edouard Pauwels",2
+"Thijs Vogels, Sai Praneeth Karimireddy, Martin Jaggi",2
+Rishi Saket,2
+"Shinsaku Sakaue, Taihei Oki",2
+"Dan Klein, Christopher D. Manning",2
+"James Thewlis, Hakan Bilen, Andrea Vedaldi",2
+"Cong Han Lim, Stephen Wright",2
+"Magnus Stensmo, Terrence J. Sejnowski",2
+"Marie Maros, Gesualdo Scutari",2
+"Zhe Dong, Andriy Mnih, George Tucker",2
+"Boris Hanin, David Rolnick",2
+"Rie Johnson, Tong Zhang",2
+"Justin Boyan, Michael Littman",2
+"Jie Wang, Jieping Ye",2
+"Shenghuo Zhu, Kai Yu, Yihong Gong",2
+"Sergey Levine, Zoran Popovic, Vladlen Koltun",2
+"Chen-Yu Wei, Yi-Te Hong, Chi-Jen Lu",2
+"Ali Rahimi, Benjamin Recht",2
+"Hoang Tran, Ashok Cutkosky",2
+"Ching-An Cheng, Byron Boots",2
+"Duc Thien Nguyen, Akshat Kumar, Hoong Chuin Lau",2
+"Alexandre Pouget, Terrence J. Sejnowski",2
+"Ping Li, Kenneth Church, Trevor Hastie",2
+"Amrutha Saseendran, Kathrin Skubch, Stefan Falkner, Margret Keuper",2
+"Hongseok Namkoong, John C. Duchi",2
+T. Zhang,2
+"Greg Ver Steeg, Aram Galstyan",2
+"Nanda Kambhatla, Todd Leen",2
+"Max Garzon, Fernanda Botelho",2
+"David Adametz, Volker Roth",2
+"Mohammad Saberian, Nuno Vasconcelos",2
+"James Petterson, Tibério Caetano",2
+Samory Kpotufe,2
+"Ian Osband, Benjamin Van Roy",2
+Ryotaro Kamimura,2
+"Christoph Bregler, Stephen Omohundro",2
+"Mingjun Zhong, Nigel Goddard, Charles Sutton",2
+"Zaiwei Chen, Siva Theja Maguluri, Sanjay Shakkottai, Karthikeyan Shanmugam",2
+"Fabian L. Wauthier, Michael Jordan",2
+"Xiaohan Chen, Jialin Liu, Zhangyang Wang, Wotao Yin",2
+Mark Paskin,2
+"Yanis Bahroun, Dmitri Chklovskii, Anirvan Sengupta",2
+"Martin J. Wainwright, Tommi Jaakkola, Alan Willsky",2
+"Sung-Soo Ahn, Michael Chertkov, Jinwoo Shin",2
+"Da Xu, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, Kannan Achan",2
+"Guy Bresler, David Gamarnik, Devavrat Shah",2
+"Gauri Jagatap, Chinmay Hegde",2
+"Thomas Hofmann, Joachim Buhmann",2
+Eric Saund,2
+"Vikas Sindhwani, Aurelie C. Lozano",2
+"Stefan Schaal, Christopher Atkeson",2
+"Oluwasanmi O. Koyejo, Nagarajan Natarajan, Pradeep K. Ravikumar, Inderjit S. Dhillon",2
+"Alekh Agarwal, Sahand Negahban, Martin J. Wainwright",2
+"Andreas Maurer, Massimiliano Pontil",2
+"Zoubin Ghahramani, Michael Jordan",2
+Mingyuan Zhou,2
+Javier Movellan,2
+"Thea Ghiselli-Crippa, Paul Munro",2
+"Amir Globerson, Tommi Jaakkola",2
+Nir Ailon,2
+"Thomas Briegel, Volker Tresp",2
+"Dieqiao Feng, Carla P. Gomes, Bart Selman",2
+"Wanyun Cui, Xingran Chen",2
+Marcello Pelillo,2
+"Ozan Sener, Vladlen Koltun",2
+"Marc Rigter, Bruno Lacerda, Nick Hawes",2
+"Sundeep Rangan, Vivek Goyal, Alyson K. Fletcher",2
+"Stéphan Clémençcon, Nicolas Vayatis",2
+"Alireza Makhzani, Brendan J. Frey",2
+Shih-Chii Liu,2
+"Alireza Fallah, Aryan Mokhtari, Asuman Ozdaglar",2
+"Guillermo Ortiz-Jimenez, Apostolos Modas, Seyed-Mohsen Moosavi, Pascal Frossard",2
+"Gal Vardi, Gilad Yehudai, Ohad Shamir",2
+"Julien Audiffren, Liva Ralaivola",2
+Siwei Lyu,2
+"Lawrence Saul, Mazin Rahim",2
+"Zhaoping Li, Peter Dayan",2
+"Ilai Bistritz, Nicholas Bambos",2
+"Tushar Nagarajan, Kristen Grauman",2
+"Odalric Maillard, Rémi Munos",2
+"Kevin Ellis, Armando Solar-Lezama, Josh Tenenbaum",2
+"Zebang Shen, Zhenfu Wang, Alejandro Ribeiro, Hamed Hassani",2
+"Giulia Denevi, Massimiliano Pontil, Carlo Ciliberto",2
+"Pierre Garrigues, Bruno Olshausen",2
+"Yoram Singer, Manfred K. K. Warmuth",2
+"Bartlett Mel, Daniel Ruderman, Kevin Archie",2
+"David Barber, Christopher Bishop",2
+"Noam Brown, Tuomas Sandholm",2
+Qijia Jiang,2
+"Kun Su, Xiulong Liu, Eli Shlizerman",2
+"Wei-Ning Chen, Peter Kairouz, Ayfer Ozgur",2
+Tor Lattimore,2
+"Anton Chechetka, Carlos Guestrin",2
+"Jack Lindsey, Ashok Litwin-Kumar",2
+"Mike Wu, Noah Goodman",2
+"Jeremy De Bonet, Paul Viola",2
+"Mojmir Mutny, Andreas Krause",2
+"Ingo Steinwart, Andreas Christmann",2
+"Gal Chechik, Isaac Meilijson, Eytan Ruppin",2
+"Haonan Yu, Wei Xu, Haichao Zhang",2
+Toshiyuki Tanaka,2
+"Kate Saenko, Trevor Darrell",2
+"Laurent Itti, Jochen Braun, Dale Lee, Christof Koch",2
+"Yang Wang, Greg Mori",2
+"Vitaly Kuznetsov, Mehryar Mohri",2
+"Badih Ghazi, Ravi Kumar, Pasin Manurangsi",2
+"Amit Manwani, Christof Koch",2
+"Hamed Masnadi-shirazi, Nuno Vasconcelos",2
+Kari Torkkola,2
+"HyeongJoo Hwang, Geon-Hyeong Kim, Seunghoon Hong, Kee-Eung Kim",2
+"Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron C. Courville, Marc Bellemare",2
+"Yves Grandvalet, Stéphane Canu",2
+"Tony Jebara, Alex Pentland",2
+"Alexis Bellot, Mihaela van der Schaar",2
+"Hoi-To Wai, Zhuoran Yang, Zhaoran Wang, Mingyi Hong",2
+"Pierre-arnaud Coquelin, Romain Deguest, Rémi Munos",2
+"Peter Schulam, Suchi Saria",2
+"Yossi Arjevani, Ohad Shamir",2
+"Han Liu, Larry Wasserman, John Lafferty",2
+"Sid Reddy, Anca Dragan, Sergey Levine",2
+Luigi Acerbi,2
+"Denizalp Goktas, Amy Greenwald",2
+"Shuxuan Guo, Jose M. Alvarez, Mathieu Salzmann",2
+"Daniel Zoran, Yair Weiss",2
+Brendan J. Frey,2
+"Gabriele Farina, Tuomas Sandholm",2
+"Andrew Naish-guzman, Sean Holden",2
+"Fariborz Salehi, Ehsan Abbasi, Babak Hassibi",2
+"Pan Li, Olgica Milenkovic",2
+Tony A. Plate,2
+Dan Garber,2
+Mark Ring,2
+"Marco Bressan, Nicolò Cesa-Bianchi, Silvio Lattanzi, Andrea Paudice",2
+"Zhilu Zhang, Mert Sabuncu",2
+"Ron Zass, Amnon Shashua",2
+"Dmitry Kovalev, Alexander Gasnikov",2
+"Dan Pelleg, Andrew Moore",2
+"Chen Yanover, Yair Weiss",2
+"Zhen Lin, Shubhendu Trivedi, Jimeng Sun",2
+Balázs Kégl,2
+"Charlie Tang, Russ R. Salakhutdinov",2
+"Itay Gat, Naftali Tishby",2
+"Siwei Lyu, Eero Simoncelli",2
+"Matthew Reimherr, Jordan Awan",2
+"Mahito Sugiyama, Karsten Borgwardt",2
+"Suhas Kowshik, Dheeraj Nagaraj, Prateek Jain, Praneeth Netrapalli",2
+"Zhao Song, David Woodruff, Peilin Zhong",2
+"Michail G. Lagoudakis, Ronald Parr",2
+Marcus Hutter,2
+"Bill Baird, Todd Troyer, Frank Eeckman",2
+"Peter Sollich, David Barber",2
+"Bernhard Nessler, Michael Pfeiffer, Wolfgang Maass",2
+"Yanxi Li, Zhaohui Yang, Yunhe Wang, Chang Xu",2
+"Hagai Attias, Christoph Schreiner",2
+"Nicolas Keriven, Alberto Bietti, Samuel Vaiter",2
+Yair Weiss,2
+Zeyuan Allen-Zhu,2
+Charles Kemp,2
+"Daniel Lee, H. Sebastian Seung",2
+"John Tsitsiklis, Benjamin Van Roy",2
+"Umar Syed, Robert E. Schapire",2
+"Andrew Ng, Michael Jordan",2
+Ofer Dekel,2
+"Feng Liu, Xiaoming Liu",2
+"Yi Li, Philip Long",2
+"Zhenyu Zhu, Fanghui Liu, Grigorios Chrysos, Volkan Cevher",2
+"Piyush Rai, Hal Daume",2
+Ayan Chakrabarti,2
+"Vinayak Rao, Yee Teh",2
+"Cameron Musco, Christopher Musco",2
+"Han Liu, Xi Chen",2
+Ilya Shpitser,2
+"Justin Domke, Daniel R. Sheldon",2
+"Yali Wan, Marina Meila",2
+Nathan Kallus,2
+"Zoubin Ghahramani, Matthew Beal",2
+Stephan Pareigis,2
+"Yi Xu, Rong Jin, Tianbao Yang",2
+"Pan Zhou, Xiaotong Yuan, Jiashi Feng",2
+"Yipei Wang, Xiaoqian Wang",2
+"M. Fard, Joelle Pineau",2
+"Gal Vardi, Ohad Shamir, Nati Srebro",2
